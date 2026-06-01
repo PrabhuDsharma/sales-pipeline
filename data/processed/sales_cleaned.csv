@@ -1,0 +1,11 @@
+order_id,customer_name,product,quantity,price,date,region,total_sales
+1001,Rahul Sharma,Laptop,2,45000,2026-01-15,North,90000
+1002,Priya Patel,Mouse,5,500,2026-01-16,South,2500
+1003,Amit Singh,Keyboard,3,1200,2026-01-16,East,3600
+1004,Neha Gupta,Monitor,1,12000,2026-01-17,West,12000
+1005,Ravi Kumar,Laptop,1,45000,2026-01-18,North,45000
+1006,Sunita Rao,Mouse,10,500,2026-01-18,South,5000
+1007,Vikram Mehta,Headphones,2,3000,2026-01-19,East,6000
+1008,Anjali Das,Keyboard,4,1200,2026-01-20,West,4800
+1009,Rohit Verma,Monitor,2,12000,2026-01-20,North,24000
+1010,Pooja Nair,Headphones,1,3000,2026-01-21,South,3000
